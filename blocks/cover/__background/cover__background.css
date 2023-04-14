@@ -21,6 +21,7 @@
 
 .cover__background:hover::before {
     opacity: 0.8;
+    transition: opacity 2s ease;
 }
 
 @media screen and (max-width: 1279px) {
