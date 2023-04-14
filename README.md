@@ -1,23 +1,4 @@
-# Проект: Путешествие по России
-
-### Обзор
-* Интро
-* Figma
-* Картинки
-
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+# H1 Project: Russian travel
+Alt-H1
+# 'Travel in Russia' is a one-page site about domestic tourism. It was created to tell Russian citizens that traveling in Russia can also be enjoyable and interesting.
+# Compared with the previous project work 'how to learn', this site was created using adaptive layout, using flexbox, grid-layout and media requests

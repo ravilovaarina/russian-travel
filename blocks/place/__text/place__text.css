@@ -1,0 +1,6 @@
+.place__text {
+    display: flex;
+    gap: 26px;
+    flex-direction: column;
+    order: 4;
+}
