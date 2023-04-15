@@ -4,3 +4,9 @@
     flex-direction: column;
     order: 4;
 }
+
+@media screen and (max-width:767px) {
+    .place__text{
+        gap: 25px;
+    }
+}

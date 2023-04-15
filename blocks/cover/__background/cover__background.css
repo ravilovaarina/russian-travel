@@ -6,6 +6,10 @@
     position: relative;
     z-index: 0;
     text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .cover__background::before {
