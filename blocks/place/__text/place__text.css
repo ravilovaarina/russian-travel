@@ -8,5 +8,6 @@
 @media screen and (max-width:767px) {
     .place__text{
         gap: 25px;
+        margin-left: 16px;
     }
 }
