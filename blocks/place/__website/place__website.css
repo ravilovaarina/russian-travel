@@ -2,10 +2,12 @@
     max-width: 456px;
     margin: 0px 0px 48px 0px;
     grid-row: 1;
+    align-self: end;
 }
 
 @media screen and (max-width:767px) {
     .place__website {
+        align-self: start;
         width: 288px;
         order: 2;
         margin: 0px 0px 32px 16px;
